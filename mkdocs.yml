@@ -1,11 +1,11 @@
-site_name: "MKDOCS TEMPLATE BY HAIHA"
+site_name: "nguyenhieu271123"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://mkdocstemplate.github.io/
+site_url: https://nguyenhieu271123.github.io/
 
-site_description: MKDOCS TEMPLATE BY HAIHA
+site_description: nguyenhieu
 site_author: haihabk51
 
-repo_url: https://github.com/mkdocstemplate/mkdocstemplate.github.io/
+repo_url: https://github.com/nguyenhieu271123/nguyenhieu271123.github.io/
 
 
 theme:
