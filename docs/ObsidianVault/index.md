@@ -10,6 +10,6 @@ category: docs
 
 # Đây là trang web mình mới xây dựng, mong mọi người yêu thích và ủng hộ mình trong tương lai sắp tới
 
-![](https://i.imgur.com/YfB5bTJ.png)
+![](https://i.imgur.com/ikDdxvX.png)
 
-![[Pasted image 20241005110112.png]]
+
