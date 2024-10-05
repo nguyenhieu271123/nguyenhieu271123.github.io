@@ -10,4 +10,4 @@ category: docs
 
 # Đây là trang web mình mới xây dựng, mong mọi người yêu thích và ủng hộ mình trong tương lai sắp tới
 
-![[wallpaperflare.com_wallpaper (2) 1.jpg]]
+![[Pasted image 20241005105523.png]]
