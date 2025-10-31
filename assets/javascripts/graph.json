@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home_Page",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "Obsidian web",
+      "symbolSize": 0,
+      "value": "/Obsidian%20web/"
+    },
+    {
+      "id": "2",
+      "name": "\ud83d\udcc1 0. Cv + Portfolio",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%200.%20Cv%20%2B%20Portfolio/"
+    },
+    {
+      "id": "3",
+      "name": "\ud83d\udcc1 01. Basic Art",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%2001.%20Basic%20Art/"
+    },
+    {
+      "id": "4",
+      "name": "\ud83d\udcc1 1. UI UX",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%201.%20UI-UX/"
+    },
+    {
+      "id": "5",
+      "name": "\ud83d\udcc1 2. Photoshop",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%202.%20Photoshop/"
+    },
+    {
+      "id": "6",
+      "name": "\ud83d\udcc1 3. illustrator",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%203.%20illustrator/"
+    },
+    {
+      "id": "7",
+      "name": "\ud83d\udcc1 4. Digital Art",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%204.%20Digital%20Art/"
+    },
+    {
+      "id": "8",
+      "name": "\ud83d\udcc1 5. Nhi\u1ebfp \u1ea3nh + Edit video",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%205.%20Nhi%E1%BA%BFp%20%E1%BA%A3nh%20%2B%20Edit%20video/"
+    },
+    {
+      "id": "9",
+      "name": "\ud83d\udcc1 Branding + Guideline",
+      "symbolSize": 0,
+      "value": "/2.%20%F0%9F%94%A5%20Design/%F0%9F%93%81%20Branding%20%2B%20Guideline/"
+    }
+  ],
+  "links": []
+}
